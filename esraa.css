@@ -1,0 +1,66 @@
+
+.section1
+{
+    
+    background-color: #85b341;
+    color: white;
+    text-align: center;
+    height: 2300px;
+    padding-top: 100px;
+}
+.section2
+{
+    margin: auto;
+    background-color: #72aa90;
+    color: cornsilk;
+    text-align: center;
+    height: 2000px;
+    width: 800px;
+}
+
+
+.navbar
+{
+    background-image: url(images/صور-اوراق-الشجر-4.jpg);
+    width: 280;
+    height: 540px;
+    border: white solid 10px;
+
+   
+}
+.a
+{
+    padding-left: 40px;
+}
+.part
+{
+   margin:auto ;
+  padding-top: 20px; 
+}
+
+.section3
+{
+    padding :100px;
+   
+    margin:auto;
+    height: 400px;
+    background-color: rgb(5, 78, 62);
+  
+}
+
+.section3 h3,p{
+    padding-top: 20px;
+}
+.btn
+{
+   margin: 30px;;
+}
+.form-control
+{
+   width: 200px;
+ margin: auto;
+}
+.footer
+{
+    padding-top:50px;
+}
